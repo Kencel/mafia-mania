@@ -5,7 +5,7 @@ A digital spinoff of the award-winning board game "Machi Koro", but with a Mafia
 
 This game is hosted on GitHub Pages. You may access it via the following link:
 
-!!Will insert Github Page link here!!
+https://dexva.github.io/mafia-mania/
 
 ## For Developers
 
