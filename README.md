@@ -21,5 +21,5 @@ $ git push
 3. Please be comprehensive in your commit messages. Don't just write "added something". Be more specific.
 4. Once you have contributed, add your name to the list of contributors (shown below).
 
-> ### List of Contributors
-- Davis Magpantay :D
+> ### Credits
+- Made by CS5-J (SY '22-'23) of PSHS-MC
